@@ -1,5 +1,5 @@
 {
-  "name": "ng2-signalr",
+  "name": "@sharegainltd/ng2-signalr",
   "version": "10.0.2",
   "peerDependencies": {
     "@angular/common": "~10.0.2",
